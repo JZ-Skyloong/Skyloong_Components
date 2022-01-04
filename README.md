@@ -1,2 +1,3 @@
-# Gasket-Keyboard-Kit
-A generic 60% mute gasket mount keyboard kit.
+# 极客定制SKYLOONG消音硅胶软垫
+通用60%键盘消音硅胶软垫安装套件.
+
