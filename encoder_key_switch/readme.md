@@ -1,1 +1,1 @@
-Skyloong encoder key switch is a interchange switch with standard switch for mechenical keyboard.
+Skyloong encoder key switch can be interchange with standard switch for mechenical keyboard.
