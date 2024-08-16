@@ -5,8 +5,8 @@
 -------------------------------------------------------------------------------------
 # Skyloong Component List 元件清单
 
-## 1. [Skyloong Lite Gasket](../lite_gasket/readme.md) 
+## 1. [Skyloong Lite Gasket](../Skyloong_Components/tree/main/lite_gasket) 
 * Skyloong Lite Gasket Kit 消音硅胶软垫安装套件.
 
-## 2. [Skyloong Encoder Key Switch](../encoder_key_switch/readme.md)
+## 2. [Skyloong Encoder Key Switch](../tree/main/encoder_key_switch/readme.md)
 * Encoder Key Switch Specification 编码器开关规格.
