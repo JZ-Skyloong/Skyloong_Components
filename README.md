@@ -8,5 +8,5 @@
 ## 1. [Skyloong Lite Gasket](../main/lite_gasket) 
 * Skyloong Lite Gasket Kit 消音硅胶软垫安装套件.
 
-## 2. [Skyloong Encoder Key Switch](../main/encoder_key_switch/readme.md)
+## 2. [Skyloong Encoder Key Switch](../main/encoder_key_switch)
 * Encoder Key Switch Specification 编码器开关规格.
