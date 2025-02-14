@@ -10,3 +10,7 @@
  *  encoder_key_switch_V1_05092023.pdf is the datasheet for the Switch;
  *  Knob core PC- Engineering drawing -wf-240423-001-12.pdf is a reference drawing of the PC core mounted on the switch；
  *  Hardware knob +PC knob core combination drawing - Engineering drawing -wf-240423-002.pdf is the assembly drawing of hardware cap and PC core for reference.
+
+ ### Update 20250212
+ * encoder_key_switch_V2_02122025.pdf is the update datasheet of encoder_key_switch_V1_05092023.pdf ;
+ * Knob core PC- Engineering drawing -wf-02122025.pdf is the update drawing of the Knob core PC- Engineering drawing -wf-240423-001-12.pdf.
